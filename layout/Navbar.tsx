@@ -109,7 +109,7 @@ export default function Navbar() {
             What We Offer
           </Link>
           <Link
-            href="/subject-classes"
+            href="/subject"
             onClick={toggleMenu}
             className="block px-4 py-2 text-gray-700 hover:bg-gray-100 transition-colors duration-200"
           >
